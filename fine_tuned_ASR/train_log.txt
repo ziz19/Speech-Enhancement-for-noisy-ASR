@@ -1,0 +1,41 @@
+Epoch loaded: 0 - test loss: 1.85, test WER: 32.69
+epoch: 1 - train loss: 2.37 - valid loss: 2.37
+epoch: 1 - train loss: 1.97 - valid loss: 1.97
+epoch: 2 - train loss: 1.97 - valid loss: 1.97
+epoch: 3 - train loss: 1.97 - valid loss: 1.97
+epoch: 4 - train loss: 1.97 - valid loss: 1.97
+epoch: 5 - train loss: 1.97 - valid loss: 1.97
+epoch: 6 - train loss: 1.97 - valid loss: 1.97
+epoch: 7 - train loss: 1.97 - valid loss: 1.97
+epoch: 8 - train loss: 1.97 - valid loss: 1.97
+Epoch loaded: 6 - test loss: 3.29e-01, test WER: 33.04
+Epoch loaded: 6 - test loss: 3.29e-01, test WER: 33.04, test Avg_WER: 35.12
+epoch: 1 - train loss: 1.65 - valid loss: 1.65
+epoch: 2 - train loss: 1.47 - valid loss: 1.47
+epoch: 3 - train loss: 1.37 - valid loss: 1.37
+epoch: 4 - train loss: 1.31 - valid loss: 1.31
+epoch: 5 - train loss: 1.27 - valid loss: 1.27
+Epoch loaded: 5 - test loss: 2.87e-01, test WER: 18.36, test Avg_WER: 19.27
+epoch: 6 - train loss: 1.25 - valid loss: 1.25
+epoch: 7 - train loss: 1.21 - valid loss: 1.21
+epoch: 8 - train loss: 1.19 - valid loss: 1.19
+epoch: 9 - train loss: 1.17 - valid loss: 1.17
+epoch: 10 - train loss: 1.16 - valid loss: 1.16
+Epoch loaded: 10 - test loss: 2.95e-01, test WER: 19.53, test Avg_WER: 20.57
+epoch: 1 - train loss: 1.65 - valid loss: 1.65
+epoch: 2 - train loss: 1.47 - valid loss: 1.66, valid WER: 22.02, valid Avg_WER: 22.55
+epoch: 3 - train loss: 1.37 - valid loss: 1.67, valid WER: 23.47, valid Avg_WER: 23.63
+epoch: 4 - train loss: 1.31 - valid loss: 1.69, valid WER: 23.12, valid Avg_WER: 23.78
+epoch: 1 - train loss: 1.65 - valid loss: 1.65, valid wer: 21.34, valid avg_wer: 21.94
+epoch: 1 - train loss: 1.65 - valid loss: 1.65, valid wer: 24.56, valid avg_wer: 24.90
+epoch: 2 - train loss: 1.47 - valid loss: 1.66, valid wer: 22.19, valid avg_wer: 22.32
+epoch: 3 - train loss: 1.37 - valid loss: 1.67, valid wer: 23.92, valid avg_wer: 24.37
+epoch: 4 - train loss: 1.31 - valid loss: 1.69, valid wer: 24.19, valid avg_wer: 24.31
+epoch: 5 - train loss: 1.27 - valid loss: 1.71, valid wer: 24.65, valid avg_wer: 24.55
+epoch: 6 - train loss: 1.24 - valid loss: 1.71, valid wer: 23.37, valid avg_wer: 24.08
+epoch: 7 - train loss: 1.21 - valid loss: 1.72, valid wer: 24.65, valid avg_wer: 24.72
+epoch: 8 - train loss: 1.19 - valid loss: 1.73, valid wer: 25.56, valid avg_wer: 25.62
+epoch: 9 - train loss: 1.17 - valid loss: 1.74, valid wer: 25.08, valid avg_wer: 25.06
+epoch: 10 - train loss: 1.16 - valid loss: 1.75, valid wer: 23.98, valid avg_wer: 24.14
+Epoch loaded: 2 - test loss: 1.58, test wer: 19.25, test avg_wer: 19.90
+epoch: 11 - train loss: 1.15 - valid loss: 1.76, valid wer: 23.84, valid avg_wer: 24.16

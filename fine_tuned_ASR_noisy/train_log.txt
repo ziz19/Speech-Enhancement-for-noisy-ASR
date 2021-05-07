@@ -1,0 +1,3 @@
+epoch: 1 - train loss: 1.70 - valid loss: 1.65, valid wer: 23.52, valid avg_wer: 23.91
+epoch: 2 - train loss: 1.50 - valid loss: 1.66, valid wer: 23.48, valid avg_wer: 23.79
+epoch: 3 - train loss: 1.40 - valid loss: 1.67, valid wer: 23.98, valid avg_wer: 24.69
